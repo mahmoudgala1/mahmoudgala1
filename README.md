@@ -13,9 +13,11 @@
 
 - 🏢 I'm an Undergraduate Computer and System Engineering @ Zagazig University
 
+- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudgala1/)
+
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP%20-05122A?style=flat&logo=oop)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
