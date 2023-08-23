@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/mahmoudgala1/)
 
 
 
