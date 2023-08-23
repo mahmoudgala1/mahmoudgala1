@@ -13,8 +13,8 @@
 
 - 🏢 I'm an Undergraduate Computer and System Engineering @ Zagazig University
 
- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudgala1/)
-  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudgalal173.95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudgala1/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudgalal173.95@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
