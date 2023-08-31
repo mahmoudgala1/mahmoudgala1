@@ -68,7 +68,7 @@
     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/mahmoudgala1/mahmoudgala1">
 </a>
 
-<a href="https://github.com/KaramYaseen">
+<a href="https://github.com/mahmoudgala1">
     <img src="https://img.shields.io/github/last-commit/mahmoudgala1/mahmoudgala1?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
 </a>
 <br />
