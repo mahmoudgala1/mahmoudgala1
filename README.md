@@ -48,15 +48,10 @@
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=github_dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=radical" />
 </p>
 <hr>
 <br>
-
-## My Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=radical" />
-</p>
 
 ## Most Used Languages 📚
 <br>
