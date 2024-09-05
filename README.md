@@ -48,18 +48,14 @@
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-  <a href="https://github.com/AVS1508">
 <img src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=github_dark">
-    </a>
 </p>
 <hr>
 <br>
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=radical" />
-</a>
 </p>
 
 ## Most Used Languages 📚
