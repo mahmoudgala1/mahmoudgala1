@@ -45,17 +45,11 @@
 
 <hr><br>
 
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=radical" />
-</p>
-<hr>
-<br>
+### ⚙️ &nbsp;GitHub Analytics
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudgala1&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudgala1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
