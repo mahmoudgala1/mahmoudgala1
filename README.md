@@ -1,7 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <h3 align="center">
   Welcome to Mahmoud Galal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -46,27 +42,23 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📊 Profile stats
-<p align="right">
-    <img  width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudgala1&layout=compact&theme=dark"></a>
-<!--![GitHub stars](https://img.shields.io/github/stars/mahmoudgala1/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)--> 
-<!--![GitHub Watchers](https://badgen.net/github/watchers/mahmoudgala1/Strapdown.js/)-->
-  
-[![mahmoudgala1 's github stats](https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mahmoudgala1/github-readme-stats)
+## Github Contribution Streak 🔥 
+<br>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudgala1&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
-<a href="https://github.com/mahmoudgala1">
-    <img src="https://img.shields.io/github/followers/mahmoudgala1?label=Follow&style=social&logoColor=white&style=for-the-badge" alt="GitHub Followers (branch)" />
-</a>
+<hr><br>
 
-<a href="https://github.com/mahmoudgala1">
-    <img src="https://img.shields.io/github/stars/mahmoudgala1?logoColor=white&style=social&style=for-the-badge" alt="GitHub Stars (branch)" />
-</a>
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudgala1&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
 
-<a href="https://github.com/mahmoudgala1">
-    <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/mahmoudgala1/mahmoudgala1">
-</a>
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahmoudgala1&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
 
-<a href="https://github.com/mahmoudgala1">
-    <img src="https://img.shields.io/github/last-commit/mahmoudgala1/mahmoudgala1?style=social&logoColor=white&style=for-the-badge" alt="GitHub Last Commit (branch)" />
-</a>
-<br />
